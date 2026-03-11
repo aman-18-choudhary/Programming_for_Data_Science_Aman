@@ -1,0 +1,11 @@
+"RegNo","Name","Programme","Specialization","Assess1","Assess2","Assess3","Assess4","Total","Average","Rank"
+"24BCE1005","Esha Nair","B.Tech","CSE",20,20,19,20,79,19.75,1
+"24BCE1003","Charan Iyer","B.Tech","DS",20,19,18,20,77,19.25,2
+"24BCE1009","Ishita Menon","B.Tech","DS",19,18,19,18,74,18.5,3
+"24BCE1001","Aadesh Kumar","B.Tech","CSE",18,17,19,18,72,18,4
+"24BCE1007","Gayathri Raj","B.Tech","Cyber",17,18,17,19,71,17.75,5
+"24BCE1010","Jai Verma","B.Tech","IT",18,17,16,19,70,17.5,6
+"24BCE1008","Harish Kumar","B.Tech","AI",16,17,16,15,64,16,7
+"24BCE1002","Bhavya Reddy","B.Tech","AI",15,16,14,18,63,15.75,8
+"24BCE1004","Divya Sharma","B.Tech","IT",14,15,15,16,60,15,9
+"24BCE1006","Farhan Khan","B.Tech","ECE",12,14,13,16,55,13.75,10

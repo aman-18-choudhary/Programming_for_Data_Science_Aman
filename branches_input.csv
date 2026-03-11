@@ -1,0 +1,11 @@
+"BranchID","BranchName","Region","Segment","Q1","Q2","Q3","Q4","Q3_Sales"
+"BR001","Vellore Town","South","Grocery",120,115,130,125,130
+"BR002","Chennai Central","South","Electronics",140,150,145,160,145
+"BR003","Mumbai Andheri","West","Grocery",110,118,122,120,122
+"BR004","Pune Hinjewadi","West","Home",95,100,108,112,108
+"BR005","Delhi Karol Bagh","North","Apparel",150,142,155,158,155
+"BR006","Noida Sector 18","North","Electronics",132,138,136,140,136
+"BR007","Kolkata Park St","East","Grocery",105,107,112,115,112
+"BR008","Hyderabad Hitech","South","Home",128,131,134,137,134
+"BR009","Ahmedabad CG Rd","West","Apparel",115,120,125,129,125
+"BR010","Jaipur MI Road","North","Home",108,112,118,121,118
